@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nano_\\source\\repos\\APITienda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88CFD41D-374E-4265-893A-69AD724B1AC1}|APITienda\\APITienda.csproj|c:\\users\\nano_\\source\\repos\\apitienda\\apitienda\\controllers\\teniscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CFD41D-374E-4265-893A-69AD724B1AC1}|APITienda\\APITienda.csproj|solutionrelative:apitienda\\controllers\\teniscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CFD41D-374E-4265-893A-69AD724B1AC1}|APITienda\\APITienda.csproj|c:\\users\\nano_\\source\\repos\\apitienda\\apitienda\\models\\bdteniscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CFD41D-374E-4265-893A-69AD724B1AC1}|APITienda\\APITienda.csproj|solutionrelative:apitienda\\models\\bdteniscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CFD41D-374E-4265-893A-69AD724B1AC1}|APITienda\\APITienda.csproj|c:\\users\\nano_\\source\\repos\\apitienda\\apitienda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CFD41D-374E-4265-893A-69AD724B1AC1}|APITienda\\APITienda.csproj|solutionrelative:apitienda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 301,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nano_\\source\\repos\\APITienda\\APITienda\\Program.cs",
+              "RelativeDocumentMoniker": "APITienda\\Program.cs",
+              "ToolTip": "C:\\Users\\nano_\\source\\repos\\APITienda\\APITienda\\Program.cs",
+              "RelativeToolTip": "APITienda\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T05:29:14.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TenisController.cs",
+              "DocumentMoniker": "C:\\Users\\nano_\\source\\repos\\APITienda\\APITienda\\Controllers\\TenisController.cs",
+              "RelativeDocumentMoniker": "APITienda\\Controllers\\TenisController.cs",
+              "ToolTip": "C:\\Users\\nano_\\source\\repos\\APITienda\\APITienda\\Controllers\\TenisController.cs",
+              "RelativeToolTip": "APITienda\\Controllers\\TenisController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T05:07:46.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BdtenisContext.cs",
+              "DocumentMoniker": "C:\\Users\\nano_\\source\\repos\\APITienda\\APITienda\\Models\\BdtenisContext.cs",
+              "RelativeDocumentMoniker": "APITienda\\Models\\BdtenisContext.cs",
+              "ToolTip": "C:\\Users\\nano_\\source\\repos\\APITienda\\APITienda\\Models\\BdtenisContext.cs",
+              "RelativeToolTip": "APITienda\\Models\\BdtenisContext.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T05:04:17.359Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
