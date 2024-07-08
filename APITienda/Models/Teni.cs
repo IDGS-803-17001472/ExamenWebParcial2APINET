@@ -14,4 +14,5 @@ public partial class Teni
     public string? Categoria { get; set; }
 
     public string? Imagen { get; set; }
+    public string? Descripcion { get; set; }
 }
